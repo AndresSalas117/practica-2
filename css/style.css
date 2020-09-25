@@ -1,0 +1,27 @@
+body{
+    background-color: darkblue;
+
+}
+.home{
+    color: mintcream;
+}
+section{
+    background-color: ghostwhite;
+    width: 48%;
+    height: 400px;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    box-shadow: 8px,10px blanchedalmond;
+    border: 1px;
+    border-style: solid;
+    border-color: crimson;
+
+}
+.izquierda{
+    float: left;
+
+}
+.derecha{
+    float: right;
+
+}
